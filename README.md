@@ -2,7 +2,7 @@
 
 > A visually stunning, minimalist three-page website designed to showcase a line of pure, raw herbal products. The design philosophy marries modern minimalism with a natural, earthy aesthetic, reflecting the brand's core values of purity and tradition.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/purohityaksh90-lang/Navjyoti-project)
 
 ## ✨ Key Features
 
@@ -83,7 +83,7 @@ This project is configured for seamless deployment to the Cloudflare network.
 
 You can deploy this project with a single click:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/purohityaksh90-lang/Navjyoti-project)
 
 Alternatively, you can deploy manually using the Wrangler CLI after setting up your `wrangler.toml` file.
 
